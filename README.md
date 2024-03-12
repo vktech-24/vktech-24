@@ -25,8 +25,8 @@ I'm a passionate BCA student aspiring to become a front-end developer. I'm dedic
 
 ## 📫 Get in Touch
 
-- GitHub: [Your GitHub Username](https://github.com/your-username)
+- GitHub: [Your GitHub Username](https://github.com/vktech-24)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vimal-kumar-s-a262392a6)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- Email: [Your Email Address](nsv7176@gmail.com)
 
 Let's connect and learn together! Feel free to reach out if you have any questions, advice, or just want to chat about front-end development. 😊
